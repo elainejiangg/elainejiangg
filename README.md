@@ -1,9 +1,6 @@
 ## hiheyhello! I'm Elaine! 👋
 
-<!--
-**elainejiangg/elainejiangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a sophomore at MIT studying Artifical Intelligence & Decision-making. I am most interested in computer vision and full-stack development. I can't wait to work with you!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
