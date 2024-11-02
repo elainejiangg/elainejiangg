@@ -4,7 +4,7 @@ I am a sophomore at MIT studying Artificial Intelligence & Decision-making. I am
 
 - 📫 How to reach me: ... ejiang@mit.edu
 - 🔭 I’m currently working on ... building a web chatbot app to help older adults with dementia stay connected with their loved ones
-- 💬 Ask me about ... best bike routes in NYC + pizza recipes
+- 💬 Ask me about ... best bike routes in NYC + best Celsius flavors
 - 📢 Pronouns: ... she/her/hers
 - ⚡ Fun fact: ... I'm from Queens, NYC... like spiderman 🕸️ (P.S. Tom Holland "went" to my high school)
 
