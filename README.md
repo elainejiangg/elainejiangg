@@ -5,4 +5,3 @@ I am a sophomore at MIT studying Artificial Intelligence & Decision-making and m
 - 📫 How to reach me: ejiang@mit.edu
 - 💻 I’m currently working on building a web chatbot app to help older adults stay connected with their loved ones
 - 💬 Ask me about best bike routes in NYC 🚲 + best Celsius flavors ⚡️ + best Neapolitan pizza recipes 🍕
-- ✨ Fun fact: I'm from Queens, NY, like Spiderman 🕸️ (p.s. Tom Holland "went" to my high school 👀)
