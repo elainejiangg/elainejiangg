@@ -1,9 +1,9 @@
 ## hiheyhello! I'm Elaine! 👋 
 
-I'm a junior at MIT studying Artificial Intelligence & Decision-making and minoring Economics. I am most interested in applied ML/AI, data/ML infrastructure, and back-end development. I can't wait to work with you! 
+I'm a rising senior at MIT studying Computer Science and minoring Economics. I am most interested in distributed systems, data/ML infrastructure, and back-end development. I can't wait to work with you! 
 
 - 📫 How to reach me: ejiang[at]mit[dot]edu 
-- 💻 I was an Amazon SDE Intern over Summer 2025! (in Arizona, Tempe! ☀️🌵)
+- 💻 I've interned at Meta and Amazon on backend systems
 - 💬 Ask me about best bike routes in NYC 🚲 + best Celsius flavors ⚡️ + best Neapolitan pizza recipes 🍕 + the pictures 📸 from my RICOH GRIII on  [![VSCO](https://img.shields.io/badge/VSCO-000000?style=flat-square&logo=vsco&logoColor=white)](https://vsco.co/ejiang0207/gallery)
 
 
