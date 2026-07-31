@@ -4,7 +4,7 @@ I'm a rising senior at MIT studying Computer Science and minoring Economics. I a
 
 - 📫 How to reach me: ejiang[at]mit[dot]edu 
 - 💻 I've interned at Meta and Amazon on backend systems
-- 💬 Ask me about best bike routes in NYC 🚲 + best Celsius flavors ⚡️ + best Neapolitan pizza recipes 🍕 + the pictures 📸 from my RICOH GRIII on  [![VSCO](https://img.shields.io/badge/VSCO-000000?style=flat-square&logo=vsco&logoColor=white)](https://vsco.co/ejiang0207/gallery)
+- 💬 Ask me about bike routes in NYC 🚲 + wheelthrowing/ceramics 🏺 + Neapolitan pizza recipes 🍕 + digital & film cameras 📸!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elainemjiang) 
